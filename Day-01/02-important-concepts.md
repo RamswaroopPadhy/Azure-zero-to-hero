@@ -8,11 +8,12 @@ Virtualization is the process of creating a virtual version of something, such a
 
 A Virtual Machine (VM) is a software-based emulation of a physical computer. It allows running multiple operating systems on a single physical machine.
 
-## **hypervisor**, also known as a **virtual machine monitor (VMM)**, is software that allows multiple virtual machines (VMs) to run on a single physical machine. It manages and allocates the host's resources, such as CPU, memory, and storage, to each VM, enabling efficient use of hardware.
+## *Hypervisor*
+Hypervisor also known as a virtual machine monitor (VMM), is software that allows multiple virtual machines (VMs) to run on a single physical machine. It manages and allocates the host's resources, such as CPU, memory, and storage, to each VM, enabling efficient use of hardware.
 
 There are two main types of hypervisors:
-1. **Type 1 (Bare-metal)**: Runs directly on the physical hardware.
-2. **Type 2 (Hosted)**: Runs on top of an existing operating system.
+1. *Type 1 (Bare-metal)*: Runs directly on the physical hardware.
+2. *Type 2 (Hosted)*: Runs on top of an existing operating system.
 
 ## API (Application Programming Interface)
 
