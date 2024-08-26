@@ -1,5 +1,8 @@
 # Basics of Cloud Computing
 
+How Internet works ? 
+The internet works by connecting devices worldwide through a network of servers, routers, and data centers. Data is sent in small packets over this network using protocols like TCP/IP. These packets travel through various routes to reach their destination, where they're reassembled into the original data, like a web page or video.
+
 ## What is Cloud ?
 
 In simpler terms, imagine the cloud as a vast, virtual space where you can store files, run software, and access various services over the internet. 
@@ -11,6 +14,10 @@ It's like having a powerful computer somewhere out there on the web that you can
 Cloud computing is a technology model that involves the delivery of computing services over the internet. Instead of owning and maintaining physical servers and infrastructure, users can access and use computing resources, applications, and storage provided by either third-party service providers (public cloud) or their own organization (private cloud) through the internet. These services are hosted in data centers located around the world.
 
 In essence, cloud computing can involve both third-party providers (public cloud) and an organization's internal resources (private cloud). The distinction lies in whether the computing resources are shared among multiple customers (public cloud) or dedicated to a single organization (private cloud). The flexibility of cloud computing allows organizations to choose the deployment model that best aligns with their needs and requirements.
+
+Data Center is a collection of servers.
+
+On-Premise -: “on-premise” (or “on-prem”) refers to IT infrastructure that is hosted and managed within a company’s own physical location, rather than being hosted on a remote server or data center provided by a third-party cloud service
 
 ## Public Cloud:
 
