@@ -15,9 +15,10 @@ Cloud computing is a technology model that involves the delivery of computing se
 
 In essence, cloud computing can involve both third-party providers (public cloud) and an organization's internal resources (private cloud). The distinction lies in whether the computing resources are shared among multiple customers (public cloud) or dedicated to a single organization (private cloud). The flexibility of cloud computing allows organizations to choose the deployment model that best aligns with their needs and requirements.
 
-Data Center is a collection of servers.
+## Data Center is a collection of servers.
 
-On-Premise -: “on-premise” (or “on-prem”) refers to IT infrastructure that is hosted and managed within a company’s own physical location, rather than being hosted on a remote server or data center provided by a third-party cloud service
+## *On-Premise*
+“on-premise” (or “on-prem”) refers to IT infrastructure that is hosted and managed within a company’s own physical location, rather than being hosted on a remote server or data center provided by a third-party cloud service
 
 ## Public Cloud:
 
